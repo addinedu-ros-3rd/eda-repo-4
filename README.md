@@ -14,6 +14,9 @@
 >### 팀원 : 박민재
 >> 데이터 수집 및 전처리, 분석
 
+# 사용된 툴
+<img width="826" alt="image" src="https://github.com/addinedu-amr-4th/eda-repo-4/assets/146153434/8d45c847-285f-402b-aa83-866a8a14c94c">
+
 
 # 기상데이터
 
@@ -23,8 +26,6 @@
 >![image](https://github.com/addinedu-amr-4th/eda-repo-4/assets/146153434/ae979df5-244f-42b0-a96f-3a4dfaa71e4e)
 
 
-# 사용된 툴
-<img width="826" alt="image" src="https://github.com/addinedu-amr-4th/eda-repo-4/assets/146153434/8d45c847-285f-402b-aa83-866a8a14c94c">
 
 # 기온에 따른 에너지 사용량 및 생산량 분석
 >## 분석결과
